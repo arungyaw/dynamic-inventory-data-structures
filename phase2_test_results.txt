@@ -1,0 +1,6 @@
+Test 1 Passed: Search by existing SKU returned Wireless Mouse.
+Test 2 Passed: Search by missing SKU returned None.
+Test 3 Passed: Category search returned 3 Electronics products.
+Test 4 Passed: Price range search returned correct products.
+Test 5 Passed: Restock priority returned USB Cable first.
+Test 6 Passed: Quantity update changed restock priority correctly.
